@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+pandas
+numpy
+statsmodels
+requests
+streamlit
+gunicorn
+python-dotenv
